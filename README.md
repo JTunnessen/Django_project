@@ -8,6 +8,6 @@ A standard Django app that allows you to add Questions and Choices and POLL the 
 
 ### Written on
 Python 3.4.3 on Django
-using standard Django templates for views
-connected to SQLite DB 
-You can easily change the database in the mysite/settings.py
+* using standard Django templates for views
+* connected to SQLite DB 
+* You can easily change the database in the mysite/settings.py
