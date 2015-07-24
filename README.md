@@ -3,9 +3,8 @@
 
 A standard Django app that allows you to add Questions and Choices and POLL the public
 
-Vote on selection
-
-Has an Admin Section, authentication, & authorization
+* Vote on selection
+* Has an Admin Section, authentication, & authorization
 
 ### Written on
 Python 3.4.3 on Django
