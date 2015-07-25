@@ -1,4 +1,4 @@
-# Django_project
+# Django Project
 ## Django Voting Application
 
 A standard Django app that allows you to add Questions and Choices and POLL the public
